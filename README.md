@@ -9,7 +9,7 @@
 
 - 👨🏻‍💻 Community Activist
 
-- 👨‍💻 All of my projects are available at [https://souhaib-dev.netlify.app/](www.souhaib-dev)
+- 👨‍💻 All of my projects are available at [https://souhaib-dev.netlify.app/](https://souhaib-dev.netlify.app/)
 
 - 💬 Ask me about **Front End Development**
 
