@@ -9,7 +9,7 @@
 
 - 👨🏻‍💻 Community Activist
 
-- 👨‍💻 All of my projects are available at [https://souhaib_portfolio.surge.sh/](https://souhaib_portfolio.surge.sh/)
+- 👨‍💻 All of my projects are available at [https://souhaib-dev.netlify.app/](www.souhaib-dev)
 
 - 💬 Ask me about **Front End Development**
 
