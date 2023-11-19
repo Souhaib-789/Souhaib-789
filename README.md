@@ -11,7 +11,7 @@
 
 - 👨🏻‍💻 Community Lead @TECVERSE-SMIU | Core Team Member @Google Developer Student Club-SMIU
 
-- 👨‍💻 All of my projects are available at [https://souhaib-dev.netlify.app/](https://souhaib-dev.netlify.app/)
+- 👨‍💻 All of my projects are available at [my portfolio](https://souhaib-dev.netlify.app/)
 
 - 📫 How to reach me **souhaibsouhaib838@gmail.com**
 
