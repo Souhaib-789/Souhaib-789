@@ -7,15 +7,13 @@
 
 - 💻 I’m currently working on **React Native**
 
-- 🌱 I’m currently learning **MERN Stack development**
-
 - 👨🏻‍💻 Community Lead @TECVERSE-SMIU | Core Team Member @Google Developer Student Club-SMIU
 
 - 👨‍💻 All of my projects are available at [my portfolio](https://souhaib-dev.netlify.app/)
 
-- 📫 How to reach me **souhaibsouhaib838@gmail.com**
+- 📫 Reach out to me at **souhaibsouhaib838@gmail.com**
 
-- ⚡ Fun fact **"Experience is the name everyone gives to their mistakes"~Oscar Wilde**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
