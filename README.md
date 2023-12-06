@@ -7,7 +7,7 @@
 
 - 💻 I’m currently working on **React Native**
 
-- 👨🏻‍💻 Community Lead [@TECVERSE](https://tecvere.netlify.app) |
+- 👨🏻‍💻 Community Lead [@TECVERSE](https://tecverse.netlify.app) |
       Core Team Member [@Google Developer Student Club-SMIU](https://gdsc.community.dev/sindh-madressatul-islam-university/)
 
 - 👨‍💻 All of my projects are available at [my portfolio](https://souhaib-dev.netlify.app/)
