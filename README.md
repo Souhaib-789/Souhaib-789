@@ -1,14 +1,13 @@
-![MasterHead](https://www.dresma.ai/wp-content/uploads/2022/01/React-Native-Developer-1.gif)
-<h1 align="center">Hi 👋, I'm Souhaib</h1>
-<h3 align="center">A passionate developer from Karachi , Pakistan</h3>
+
+<h2 align="start">Hi 👋, I'm Souhaib</h2>
+<h4 align="start">A passionate developer from Pakistan</h4>
 <img align="right" alt="Coding" width="400" src="https://shorturl.at/elmH4"></img>
    
- - 👨🏻‍🎓 Final Year Undergraduate Software Engineering Student (SMIU Karachi)
 
 - 💻 I’m currently working on **React Native**
 
 - 👨🏻‍💻 Community Lead [@TECVERSE](https://tecverse.netlify.app) |
-      Core Team Member [@Google Developer Student Club-SMIU](https://gdsc.community.dev/sindh-madressatul-islam-university/)
+      Core Team Member [@Google Developer Student Club-SMIU](https://gdsc.community.dev/sindh-madressatul-islam-university/) | API Student Expert by [@Postman(https://academy.postman.com/page/students)]
 
 - 👨‍💻 All of my projects are available at [my portfolio](https://souhaib-dev.netlify.app/)
 
