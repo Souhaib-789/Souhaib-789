@@ -6,7 +6,7 @@
 
 - 💻 I’m currently working on **React Native**
 
-- 👨🏻‍💻 Community Lead [@TECVERSE](https://tecverse.netlify.app) |
+- 👨🏻‍💻 Community Lead [@TECVERSE](https://tecverse.netlify.app) | Regional Vice Captain [@AWS Cloud Club - Pakistan](https://www.meetup.com/aws-cloud-club-in-pakistan/) |
       Core Team Member [@Google Developer Student Club-SMIU](https://gdsc.community.dev/sindh-madressatul-islam-university/) | API Student Expert by [@Postman](https://academy.postman.com/page/students)
 
 - 👨‍💻 All of my projects are available at [my portfolio](https://souhaib-dev.netlify.app/)
