@@ -1,17 +1,46 @@
 
 <h2 align="start">Hi 👋, I'm Souhaib</h2>
-<h4 align="start">A passionate developer from Pakistan</h4>
+<!-- <h4 align="start">A passionate developer from Pakistan</h4> -->
 <img align="right" alt="Coding" width="400" src="https://shorturl.at/elmH4"></img>
    
 
-- 💻 I’m currently working on **React Native**
+<!-- - 💻 I’m currently working on **React Native**
 
 - 👨🏻‍💻 Community Lead [@TECVERSE](https://tecverse.netlify.app) | Regional Vice Captain [@AWS Cloud Club - Pakistan](https://www.meetup.com/aws-cloud-club-in-pakistan/) |
       Core Team Member [@Google Developer Student Club-SMIU](https://gdsc.community.dev/sindh-madressatul-islam-university/) | API Student Expert by [@Postman](https://academy.postman.com/page/students)
 
 - 👨‍💻 All of my projects are available at [my portfolio](https://souhaib-dev.netlify.app/)
 
-- 📫 Reach out to me at **souhaibsouhaib838@gmail.com**
+- 📫 Reach out to me at **souhaibsouhaib838@gmail.com** -->
+
+
+
+### A little more about me...  
+
+```javascript
+const souhaib = {
+  pronouns: "he" | "his",
+  portfolio_url: "souhaib-dev.netlify.app",
+  code: [Javascript, Typescript, HTML, CSS],
+  tools: [React, React-Native, Expo, Redux,  Thunk, Toolkit, Styled-Components],
+  architecture: ["microservices", "CBM", "design system pattern"],
+  education: {
+                        bachelors: "Sindh Madresstul Islam University , Karachi",
+                        skills: [SDLC , DSA , OOP]
+                      },
+ communities: {
+                        founder: "Tecverse-SMIU",
+                        vice_captain: "AWS Cloud CLub Pakistan",
+                        core_team_member: "AWS User Group Karachi",
+                        x_core_team_member: "Google Developer Group On Campus- SMIU"
+                      },
+
+ currently_building: "code-basket.vercel.app",
+ contact: "souhaibsouhaib838@gmail.com
+}
+```
+
+</em>
 
 
 
