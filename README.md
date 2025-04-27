@@ -1,19 +1,8 @@
 
 <h2 align="start">Hi 👋, I'm Souhaib</h2>
 <!-- <h4 align="start">A passionate developer from Pakistan</h4> -->
-<img align="right" alt="Coding" width="400" src="https://shorturl.at/elmH4"></img>
+<!-- <img align="center"  alt="Coding" width="300" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif"></img> -->
    
-
-<!-- - 💻 I’m currently working on **React Native**
-
-- 👨🏻‍💻 Community Lead [@TECVERSE](https://tecverse.netlify.app) | Regional Vice Captain [@AWS Cloud Club - Pakistan](https://www.meetup.com/aws-cloud-club-in-pakistan/) |
-      Core Team Member [@Google Developer Student Club-SMIU](https://gdsc.community.dev/sindh-madressatul-islam-university/) | API Student Expert by [@Postman](https://academy.postman.com/page/students)
-
-- 👨‍💻 All of my projects are available at [my portfolio](https://souhaib-dev.netlify.app/)
-
-- 📫 Reach out to me at **souhaibsouhaib838@gmail.com** -->
-
-
 
 ### A little more about me...  
 
